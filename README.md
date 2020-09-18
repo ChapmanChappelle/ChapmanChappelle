@@ -10,7 +10,7 @@
 
 <h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Python | Java | C# | SQL | MATLAB
+- 💻 &nbsp; Python | Java | C# | SQL | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🔧 &nbsp; Git | 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Sketch | XD | Figma
