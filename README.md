@@ -17,7 +17,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChapmanChappelle&show_icons=true)](https://github.com/ChapmanChappelle)
+[![Chapman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChapmanChappelle&show_icons=true)](https://github.com/ChapmanChappelle)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -27,5 +27,3 @@
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:chapman.chappelle@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chapman.chappelle@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/ChapmanChappelle)
