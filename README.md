@@ -12,7 +12,6 @@
 
 - 💻 &nbsp; Python | Java | C# | SQL 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🔧 &nbsp; Git | 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Sketch | XD | Figma
 
 <br/>
