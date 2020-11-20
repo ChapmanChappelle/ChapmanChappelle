@@ -22,6 +22,6 @@
 
 <p align="center">
 <a href="https://www.albrt.cc"><img alt="Website" src="https://img.shields.io/badge/Website-www.albrt.cc-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/chapman-chappelle-6a84911b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chapman%20Chappelle-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/a-chapman-chappelle"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chapman%20Chappelle-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:chapman.chappelle@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chapman.chappelle@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
