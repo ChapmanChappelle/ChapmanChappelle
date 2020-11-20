@@ -1,11 +1,11 @@
-<h2> Hey! I'm Chapman :D</h2>
+<h2> Hey! I'm Chapman</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨‍💻 About Me </h3>
 
 - 🤔 &nbsp; Trying my best to learn everything I can about software development
 - 🎓 &nbsp; Studying Interactive Design at Kennesaw State Universtiy. Attended Full Stack bootcamp @ DigitalCrafts in Atlanta
-- 💼 &nbsp; Still looking for that first job :D
-- 🌱 &nbsp; My main interests are web applications and UX Design
+- 💼 &nbsp; Looking for Junior Developer or Junior UX Design jobs
+- 🌱 &nbsp; My main interests are web applications, UX Design, and I'm just starting to learn machine learning
 - ✍️ &nbsp; On the side I am very interested in forms of media such as music, interactive storytelling, and film
 
 <h3>🛠 Skills</h3>
