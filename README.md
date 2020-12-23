@@ -1,4 +1,7 @@
 <h1>Some of my Projects</h1>
+https://github.com/luigisiops/social-bubble-client
+
+
 
 [![Chapman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChapmanChappelle&show_icons=true)](https://github.com/ChapmanChappelle)
 
