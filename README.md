@@ -1,8 +1,8 @@
 <h1>Some of my Projects</h1>
-https://github.com/luigisiops/social-bubble-client
-https://github.com/ChapmanChappelle/LiftLogger
-https://github.com/mattquint111/FlixLists
-https://github.com/ChapmanChappelle/ones-gotta-go
+<p>https://github.com/luigisiops/social-bubble-client</p>
+<p>https://github.com/ChapmanChappelle/LiftLogger</p>
+<p>https://github.com/mattquint111/FlixLists</p>
+<p>https://github.com/ChapmanChappelle/ones-gotta-go</p>
 
 
 
