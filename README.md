@@ -2,7 +2,7 @@
 <p>https://github.com/luigisiops/social-bubble-client</p>
 <p>https://github.com/ChapmanChappelle/LiftLogger</p>
 <p>https://github.com/mattquint111/FlixLists</p>
-<p>https://github.com/ChapmanChappelle/ones-gotta-go</p>
+<p>https://github.com/ChapmanChappelle/silver-thread-client</p>
 
 
 
